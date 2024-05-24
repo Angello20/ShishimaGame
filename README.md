@@ -21,8 +21,7 @@ This project is a simulation of the traditional African game Shishima, implement
 
 - Two-player gameplay
 - Simple and intuitive UI
-- Highlighted moves
-- Game status display (win/draw)
+- Game status display (win)
 
 ## Installation
 
