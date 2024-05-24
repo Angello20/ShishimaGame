@@ -29,7 +29,7 @@ To run this project, you need to have Racket installed on your machine. You can 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shishima-racket.git
+   git clone https://github.com/Angello20/ShishimaGame.git
    ```
 
 2. Navigate to the project directory:
