@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a simulation of the traditional African game Shishima, implemented in Racket. The game is similar to tic-tac-toe but with a different board structure. Our implementation uses a 3x3 grid instead of the traditional octagonal board.
+This project is a simulation of the traditional African game Shishima, implemented in Racket. The game is similar to tic-tac-toe but with a different board structure. My implementation uses a 3x3 grid instead of the traditional board.
 
 ![Shishima Board](path/to/your/board-image.png)
 
