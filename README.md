@@ -34,7 +34,7 @@ To run this project, you need to have Racket installed on your machine. You can 
 
 2. Navigate to the project directory:
    ```bash
-   cd shishima-racket
+   cd ShishimaGame
    ```
 
 ## Usage
