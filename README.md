@@ -56,30 +56,6 @@ The objective of Shishima is to align three of your pieces in a continuous line 
 
 Here are some screenshots showing the game in action:
 
-![Game Start](path/to/start-image.png)
-![Mid Game](path/to/mid-game-image.png)
-![Game End](path/to/end-game-image.png)
+![Game Start](Images/ShishimaImg1.PNG)
+![Game End](Images/ShishimaImg2.png)
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-
-1. Replace `path/to/your/board-image.png`, `path/to/start-image.png`, `path/to/mid-game-image.png`, and `path/to/end-game-image.png` with the actual paths to your images.
-2. Add the images to your GitHub repository to ensure they are displayed correctly.
-3. Adjust the URL in the `git clone` command to match your repository.
-
-Feel free to modify and expand this README to better fit your project and provide more details where necessary.
