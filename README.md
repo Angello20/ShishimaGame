@@ -49,9 +49,8 @@ The objective of Shishima is to align three of your pieces in a continuous line 
 
 ### Rules
 
-1. **Placement Phase**: Players take turns to place their three pieces on any of the empty intersections.
-2. **Movement Phase**: Once all pieces are placed, players take turns moving their pieces to adjacent empty spots.
-3. **Winning**: The first player to align their three pieces in a row wins the game.
+1. **Movement Phase**: Pieces start placed, players take turns moving their pieces to adjacent empty spots.
+2. **Winning**: The first player to align their three pieces in a row wins the game.
 
 ### Screenshots
 
